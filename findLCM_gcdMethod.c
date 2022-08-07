@@ -1,3 +1,7 @@
+// Shubhankar Tripathy
+// 5 Aug 2022
+// Find GCD and LCM by SDSU method (Copyright: Shubhankar)
+
 #include <stdio.h>
 
 int findSmaller(int num1, int num2)
